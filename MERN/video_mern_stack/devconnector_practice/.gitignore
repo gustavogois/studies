@@ -82,3 +82,7 @@ typings/
 /React
 
 /.idea
+
+/node_modules
+
+package-lock.json
